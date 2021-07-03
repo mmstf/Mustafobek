@@ -3,4 +3,4 @@
 - ⚒  I'm currently working with Node.js, Express.js, MongoDB (Mongoose), Nest.js, Postgresql (Sequelize ORM) 
 - 🌱 I’m currently learning Nest.js, Postgresql (Sequelize ORM), Typescript
 - 💞️ I’m looking to collaborate on Upper-shown-technologies projects
-- 📫 Reach me in Telegram: t.me/Ok_Google99; E-mail: mustafobey99@mail.ru 
+- 📫 Reach me in Telegram: t.me/Ok_Google99; E-mail: mustafobey99@mail.ru;
