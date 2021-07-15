@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mustafobek
-- 👀 I’m interested in backend technologies as Node.js, Express.js, Typescript, Nest.js, MongoDB (Mongoose ORM), Postgresql (Sequelize ORM) 
-- ⚒  I'm currently working with Node.js, Express.js, MongoDB (Mongoose), Nest.js, Postgresql (Sequelize ORM) 
-- 🌱 I’m currently learning Nest.js, Postgresql (Sequelize ORM), Typescript
+- 👀 I’m interested in backend technologies as Node.js, Express.js, Typescript, Nest.js, MongoDB (Mongoose ORM), Postgresql (Sequelize/Typeorm ORM) 
+- ⚒  I'm currently working with Node.js, Express.js, MongoDB (Mongoose), Nest.js, Postgresql (Sequelize/Typeorm ORM) 
+- 🌱 I’m currently learning Nest.js, Postgresql, Typescript
 - 💞️ I’m looking to collaborate on Upper-shown-technologies projects
 - 📫 Reach me in Telegram: t.me/Ok_Google99; E-mail: mustafobey99@mail.ru;
