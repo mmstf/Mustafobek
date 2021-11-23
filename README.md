@@ -12,4 +12,10 @@
 🌱 Currently learning <h5 align="center">![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp; ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp; ![Prisma ORM](https://img.shields.io/badge/-Prisma_ORM-05122A?style=flat&logo=prisma)&nbsp;</h5>
 🗺 Want to explore backend widely and deeply, planning to learn <h5 align="center">![Go(lang)](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp; || ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)&nbsp;</h5> 
 💞️ Looking to collaborate on Upper-shown-technologies projects
-📫 Reach me in  E-mail: mustafobey99@mail.ru || [<img align="center" width="22px" src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png?token=exp=1637694028~hmac=b789f6616c807d7ea00681aa44ffaa5a" />](https://www.instagram.com/sty_z17/) [<img align="center" width="22px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670070.png?token=exp=1637693968~hmac=d8c5e85266b96bd27be3690f73c641fc">](https://t.me/Ok_Google99)
+
+📫 Reach me in 
+<p align="center">
+<a href="mailto:mustafobey99@mail.ru"><img src="https://img.shields.io/badge/-mustafobey99@mail.ru-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/sty_z17/"><img src="https://img.shields.io/badge/-@sty_z17-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://t.me/Ok_Google99"><img src="https://img.shields.io/badge/-@Ok__Google99-1877F2?style=flat&logo=Telegram&logoColor=white"/></a>
+</p>
