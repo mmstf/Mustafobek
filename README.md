@@ -1,9 +1,15 @@
-### Hi, I'm Mustafaa MJ.
-<hr />
+## Hi, I'm Mustafaa Mj.
 
-- 👀 I'm so Interested in backend technologies as <h5 align="center">Node.js, Express.js, Typescript, Nest.js, MongoDB (Mongoose ORM), Postgresql (Sequelize/Typeorm ORM), REST API, GraphQL (Prisma ORM), Microservices, Go(lang), Software Architecting and Engineering</h5> 
-- ⚒  Currently working with <h5 align="center">Node.js, Express.js, MongoDB (Mongoose ORM), Nest.js, Postgresql (Typeorm ORM), REST API</h5> 
-- 🌱 Currently learning <h5 align="center">Typescript, GraphQL, Prisma ORM</h5>
-- 🗺 Want to explore backend widely and deeply, planning to learn <h5 align="center">Go(lang) or Rust</h5> 
-- 💞️ Looking to collaborate on Upper-shown-technologies projects
-- 📫 Reach me in  E-mail: mustafobey99@mail.ru || [<img align="center" width="22px" src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png?token=exp=1637694028~hmac=b789f6616c807d7ea00681aa44ffaa5a" />](https://www.instagram.com/sty_z17/) [<img align="center" width="22px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670070.png?token=exp=1637693968~hmac=d8c5e85266b96bd27be3690f73c641fc">](https://t.me/Ok_Google99)
+👀 I'm so Interested in backend technologies as <h5 align="">
+&nbsp;&nbsp;&nbsp;&nbsp; ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;![Express.js](https://img.shields.io/badge/-Expressjs-05122A?style=flat&logo=express)&nbsp; ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp; ![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nestjs)&nbsp;
+ <br> &nbsp;&nbsp;&nbsp;&nbsp; ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp; ![Mongoose ORM](https://img.shields.io/badge/-Mongoose_ORM-05122A?style=flat&logo=)&nbsp; 
+ <br> &nbsp;&nbsp;&nbsp;&nbsp; ![Postgresql](https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=postgresql)&nbsp; ![Sequelize](https://img.shields.io/badge/-Sequelize_ORM-05122A?style=flat&logo=sequelize)&nbsp; ![Typeorm ORM](https://img.shields.io/badge/-Typeorm-05122A?style=flat&logo=typeorm)&nbsp; 
+ <br> &nbsp;&nbsp;&nbsp;&nbsp; ![REST API](https://img.shields.io/badge/-REST_API-05122A?style=flat&logo=api)&nbsp; ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp; ![Prisma ORM](https://img.shields.io/badge/-Prisma_ORM-05122A?style=flat&logo=prisma)&nbsp;
+ <br> &nbsp;&nbsp;&nbsp;&nbsp; ![Microservices](https://img.shields.io/badge/-Microservices-05122A?style=flat&logo=ms)&nbsp; 
+ <br> &nbsp;&nbsp;&nbsp;&nbsp; ![Go(lang)](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
+ <br> &nbsp;&nbsp;&nbsp;&nbsp; ![Software Architecting and Engineering](https://img.shields.io/badge/-Software_Architecting_and_Engineering-05122A?style=flat&logo=architect)&nbsp;</h5> 
+⚒  Currently working with <h5 align="center">![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; ![Express.js](https://img.shields.io/badge/-Expressjs-05122A?style=flat&logo=express)&nbsp; ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp; ![Mongoose ORM](https://img.shields.io/badge/-Mongoose_ORM-05122A?style=flat&logo=)&nbsp; ![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nestjs)&nbsp; ![Postgresql](https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=postgresql)&nbsp; ![Typeorm ORM](https://img.shields.io/badge/-Typeorm-05122A?style=flat&logo=typeorm)&nbsp; ![REST API](https://img.shields.io/badge/-REST_API-05122A?style=flat&logo=api)&nbsp;</h5> 
+🌱 Currently learning <h5 align="center">![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp; ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp; ![Prisma ORM](https://img.shields.io/badge/-Prisma_ORM-05122A?style=flat&logo=prisma)&nbsp;</h5>
+🗺 Want to explore backend widely and deeply, planning to learn <h5 align="center">![Go(lang)](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp; || ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)&nbsp;</h5> 
+💞️ Looking to collaborate on Upper-shown-technologies projects
+📫 Reach me in  E-mail: mustafobey99@mail.ru || [<img align="center" width="22px" src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png?token=exp=1637694028~hmac=b789f6616c807d7ea00681aa44ffaa5a" />](https://www.instagram.com/sty_z17/) [<img align="center" width="22px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670070.png?token=exp=1637693968~hmac=d8c5e85266b96bd27be3690f73c641fc">](https://t.me/Ok_Google99)
