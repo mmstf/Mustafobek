@@ -1,7 +1,7 @@
 ### Hi, I'm Mustafaa MJ.
 <hr />
 
-- 👀 I'm so Interested in backend technologies as <h5 align="center" style="color: red">Node.js[<img width="22px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png">], Express.js, Typescript, Nest.js, MongoDB (Mongoose ORM), Postgresql (Sequelize/Typeorm ORM), REST API, GraphQL (Prisma ORM), Microservices, Go(lang), Software Architecting and Engineering</h5> 
+- 👀 I'm so Interested in backend technologies as <h5 align="center">Node.js, Express.js, Typescript, Nest.js, MongoDB (Mongoose ORM), Postgresql (Sequelize/Typeorm ORM), REST API, GraphQL (Prisma ORM), Microservices, Go(lang), Software Architecting and Engineering</h5> 
 - ⚒  Currently working with <h5 align="center">Node.js, Express.js, MongoDB (Mongoose ORM), Nest.js, Postgresql (Typeorm ORM), REST API</h5> 
 - 🌱 Currently learning <h5 align="center">Typescript, GraphQL, Prisma ORM</h5>
 - 🗺 Want to explore backend widely and deeply, planning to learn <h5 align="center">Go(lang) or Rust</h5> 
