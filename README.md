@@ -1,4 +1,4 @@
-## Hi, I'm Mustafaa Mj.
+## Hi, I'm Mj. Mustafaa
 
 👀 I'm so Interested in backend technologies as <h5 align="">
 &nbsp;&nbsp;&nbsp;&nbsp; ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;![Express.js](https://img.shields.io/badge/-Expressjs-05122A?style=flat&logo=express)&nbsp; ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp; ![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nestjs)&nbsp;
