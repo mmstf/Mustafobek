@@ -16,6 +16,6 @@
 📫 Reach me in 
 <p align="center">
 <a href="mailto:mustafobey99@mail.ru"><img src="https://img.shields.io/badge/-mustafobey99@mail.ru-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/mjmustafaa/"><img src="https://img.shields.io/badge/-@sty_z17-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/mjmustafaa/"><img src="https://img.shields.io/badge/-@mjmustafaa-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://t.me/Ok_Google99"><img src="https://img.shields.io/badge/-@Ok__Google99-1877F2?style=flat&logo=Telegram&logoColor=white"/></a>
 </p>
