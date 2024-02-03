@@ -16,9 +16,10 @@
  ![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nestjs)&nbsp; 
  ![Express.js](https://img.shields.io/badge/-Expressjs-05122A?style=flat&logo=express)&nbsp; 
  ![Loopback4](https://img.shields.io/badge/-Loopback%204-05122A?style=flat&logo=loopback)&nbsp; 
- ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp; 
- ![Mongoose ORM](https://img.shields.io/badge/-Mongoose_ORM-05122A?style=flat&logo=)&nbsp; 
  ![REST API](https://img.shields.io/badge/-REST_API-05122A?style=flat&logo=api)&nbsp;
+
+ ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp; 
+ ![Mongoose ORM](https://img.shields.io/badge/-Mongoose_ORM-05122A?style=flat&logo=mongoose)&nbsp; 
  
  ![REST API](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react)&nbsp;
  ![REST API](https://img.shields.io/badge/-Angular%2014+-05122A?style=flat&logo=angular)&nbsp; 
@@ -32,7 +33,7 @@
  ![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=ansible)&nbsp;
  ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=zsh)&nbsp;
  ![CI/CD](https://img.shields.io/badge/-CI/CD-05122A?style=flat&logo=gitlab)&nbsp; 
- ![K8S](https://img.shields.io/badge/-K8s-05122A?style=flat&logo=kubernetes)&nbsp; 
+ ![K8S](https://img.shields.io/badge/-k8s-05122A?style=flat&logo=kubernetes)&nbsp; 
  ![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform)&nbsp; 
  
  </h5>
