@@ -1,7 +1,7 @@
-# MSTF
+s# MSTF
 
 
-### I'm Backend Developer and DevOps Engineer, and am interested in technologies as <h5 align="">
+### I'm Backend Developer and DevOps Engineer, and am interested in technologies such as <h5 align="">
  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; 
  ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp; 
  ![Go(lang)](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
@@ -13,7 +13,7 @@
  ![K8S](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp; 
  ![Software Architecture and Engineering](https://img.shields.io/badge/-Software_Architecture_and_Engineering-05122A?style=flat&logo=debian)&nbsp;</h5> 
  
-### Have experience in BACKEND developement with technologies as <h5 align="">
+### Have experience in BACKEND developement with technologies such as <h5 align="">
  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; 
  ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp; 
  ![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nestjs)&nbsp; 
@@ -31,7 +31,7 @@
  </h5> 
 
  
-### Currently learning DevOps tools as <h5 align="">
+### Currently learning DevOps tools such as <h5 align="">
  ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp; 
  ![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)&nbsp;
  ![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=ansible)&nbsp;
