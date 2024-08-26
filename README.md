@@ -38,5 +38,6 @@ s# MSTF
  ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=zsh)&nbsp;
  ![CI/CD](https://img.shields.io/badge/-CI/CD-05122A?style=flat&logo=gitlab)&nbsp; 
  ![K8S](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp; 
+ ![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform)&nbsp; 
  </h5>
  
